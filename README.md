@@ -2,6 +2,7 @@
 links related to must know golang stuff
 
 # core-lang
+- [memory](https://go.dev/ref/mem)
 - [Kube CPU throttling](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
 - [GC-Guide](https://tip.golang.org/doc/gc-guide)
 - [Go-comptime](https://github.com/pijng/prep)
