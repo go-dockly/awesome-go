@@ -27,6 +27,10 @@ links related to must know golang stuff
 - [Glojure](https://github.com/glojurelang/glojure)
 - [GoMLX: machine learning in go](https://github.com/gomlx/gomlx)
 - [Fabric](https://github.com/danielmiessler/fabric)
+- [zasper Jupyter in go](https://github.com/zasper-io/zasper)
+
+# Games
+- [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 # io
 
